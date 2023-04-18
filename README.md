@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Mats 
 I'm a passionate Full-Stack Web Developer based in Montreal. 
 
-I'm a tech enthusiast who is proficient in a wide range of programming languages and technologies including https://img.shields.io/badge/<LABEL>-<JavasScript>-<blue>, HTML, CSS, Node.js, React, and MongoDB. I'm currently working through TypeScript and Next.js as part of my continuous learning journey.
+I'm a tech enthusiast who is proficient in a wide range of programming languages and technologies including **JavaScript**, **HTML**, **CSS**, **Node.js**, **React**, and **MongoDB**. I'm currently working through TypeScript and Next.js as part of my continuous learning journey.
 
 With almost eight years of experience in advertising media for major brands, I bring a unique perspective to my work in web development that sets me apart from the rest. My background in advertising has instilled in me a deep appreciation for user experience and design, which I leverage in my work as a web developer to create compelling digital experiences that drive engagement and conversions. Whether it's building a new app from scratch or revamping an existing website, I approach every project with a strategic and user-focused mindset.
 
