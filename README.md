@@ -99,7 +99,7 @@ Login: *test@shufflr.com* : *Shufflr123!*
 
 [ MERN Stack | Group of 5 | 1 week ]
 
-An online wearable tech site tailored with a wide assortment of gear. 
+An online wearable tech site with a wide assortment of accesories and gadgets.
 
 <img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/3c7ede75-e13a-4615-9e92-13ee03a6e74b" alt="WMWScreenshot" width="640px"/>
 
@@ -114,7 +114,7 @@ Key features include:
 
 ### [GENERATIVE ART](https://generativeart-2dbubbles.netlify.app/) : *Programmatic Styling*
 
-[Javascript & CSS | Independent | 0.5 day ]
+[Javascript & CSS | Independent]
 
 <img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/ac5ebe6d-8b26-45c7-9d59-a22680761dbd" alt="genart" width="320px"/>
 <img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/74d562ca-25cc-46ec-9f85-df644cfa8400" alt="genart" width="320px"/>
