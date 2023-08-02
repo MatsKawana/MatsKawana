@@ -95,13 +95,13 @@ Login: *test@shufflr.com* : *Shufflr123!*
 
 ---
 
-### WMW Store : *eCommerce Store*
+### WMW STORE : *eCommerce Store*
 
 [ MERN Stack | Group of 5 | 1 week ]
 
 An online wearable tech site tailored with a wide assortment of gear. 
 
-<img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/3c7ede75-e13a-4615-9e92-13ee03a6e74b" alt="WMWScreenshot" width="650px"/>
+<img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/3c7ede75-e13a-4615-9e92-13ee03a6e74b" alt="WMWScreenshot" width="640px"/>
 
 
 Key features include:
@@ -109,4 +109,16 @@ Key features include:
   * **Browse Products:** Filter and sort products by price point, brand, category, body location, with pagination
   * **Cart:** Cart UI that syncs with available inventory
   * **Checkout:** Simulated purchase to update inventory and sales data
+
 ---
+
+### [GENERATIVE ART](https://generativeart-2dbubbles.netlify.app/) : *Programmatic Styling*
+
+[Javascript & CSS | Independent | 0.5 day ]
+
+<img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/ac5ebe6d-8b26-45c7-9d59-a22680761dbd" alt="genart" width="320px"/>
+
+
+Generative Art challenge that displays a unique piece of art through a randomization algorithm. Adjust the width and height using the sliders to dynamically influence the results.
+
+--- 
