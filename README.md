@@ -117,8 +117,10 @@ Key features include:
 [Javascript & CSS | Independent | 0.5 day ]
 
 <img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/ac5ebe6d-8b26-45c7-9d59-a22680761dbd" alt="genart" width="320px"/>
+<img src="https://github.com/MatsKawana/MatsKawana/assets/10579919/74d562ca-25cc-46ec-9f85-df644cfa8400" alt="genart" width="320px"/>
 
 
-Generative Art challenge that displays a unique piece of art through a randomization algorithm. Adjust the width and height using the sliders to dynamically influence the results.
+
+Generative Art challenge that displays a unique piece of art through a randomization algorithm. Adjust the maximum width and height using the sliders to dynamically influence the results.
 
 --- 
